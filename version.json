@@ -1,15 +1,13 @@
 {
-  "latestVersion": "1.1.1",
-  "latestBuild": 4,
+  "latestVersion": "1.1.2",
+  "latestBuild": 5,
   "minimumBuild": 1,
   "forceUpdate": false,
   "releaseNotes": [
-    "Improved fuel calculations",
-    "Updated AeroFuel interface",
-    "Bug fixes and performance improvements",
-    "Add Manual Application Update Feature"
+    "Added Proper App Name",
+    "Updated Application Icon"
   ],
   "playStoreUrl": "https://play.google.com/store/apps/details?id=YOUR_PACKAGE_ID",
-  "directApkUrl": "https://github.com/ayush7471/AeroFuelApp/releases/download/AeroFuel/aerofuel-1.1.1.apk",
-  "apkSha256": "8293BD98B1FB89A544EC84B0431532132F8A0391F51422C4CE837FDE6914B21A"
+  "directApkUrl": "https://github.com/ayush7471/AeroFuelApp/releases/download/v1.1.2/aerofuel-1.1.2.apk",
+  "apkSha256": "AE5829C445A11F3A8872EFBA2857013269C4FCC5006D4AAA1322FBA913F8AAF9"
 }
