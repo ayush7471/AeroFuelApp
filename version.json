@@ -1,13 +1,13 @@
 {
   "latestVersion": "1.2.1",
-  "latestBuild": 2,
+  "latestBuild": 1,
   "minimumBuild": 1,
   "forceUpdate": false,
   "releaseNotes": [
-    "Added Proper App Name",
+    "Added Pop-Up Auto Notification for Update",
     "Updated Application Icon"
   ],
   "playStoreUrl": "https://play.google.com/store/apps/details?id=YOUR_PACKAGE_ID",
-  "directApkUrl": "https://github.com/ayush7471/AeroFuelApp/releases/download/v1.2.0/aerofuel-1.2.0.apk",
-  "apkSha256": "A9580806DB1CD9998046173B9361B914EB921208723E1635B56B3C6F2CEBACF6"
+  "directApkUrl": "https://github.com/ayush7471/AeroFuelApp/releases/download/v1.2.1/aerofuel-1.2.1.apk",
+  "apkSha256": "B92012ADF810DA58045F90C080C7EFD17D485031018F9F2401F82E8DB1D82B5A"
 }
